@@ -13,9 +13,13 @@
         android:id="@+id/nabiadam"
         android:layout_width="100dp"
         android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="73dp"
+        android:background="@drawable/btn"
         android:text="Nabi Adam"
         android:onClick="pindah_halaman1"
         />
+
 
     <Button
         android:layout_width="100dp"
